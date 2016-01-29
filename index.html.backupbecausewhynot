@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Home - Project Patch</title>
+<title>UProject Patch</title>
 <link href="style.css" rel="stylesheet" type="text/css"><!--[if lte IE 7]>
 <style>
 .content { margin-right: -1px; } /* this 1px negative margin can be placed on any of the columns in this layout with the same corrective effect. */
@@ -17,17 +17,17 @@ ul.nav a { zoom: 1; }  /* the zoom property gives IE the hasLayout trigger it ne
 <body>
 
 <div class="container">
-  <div class="header"><a href="index.html"><img src="Patch Cube.png" alt="Insert Logo Here" name="Insert_logo" width="110" height="109"/><img src="Project Patch3.png" width="400" height="50"></a> 
+  <div class="header"><a href="#"><img src="Patch Cube.png" alt="Insert Logo Here" name="Insert_logo" width="110" height="109"/><img src="Project Patch3.png" width="400" height="50"></a> 
   <div id='cssmenu'>
 <ul>
    <li class='active'><a href='index.html'><span>Home</span></a></li>
-   <li><a href='help.html'><span>How Can I Help?</span></a></li>
-   <li><a href='about.html'><span>About Us</span></a></li>
-   <li><a href='contact.html'><span>Contact</span></a></li>
-   <li><a href='#WEDONTFUCKINGHAVEONEWTF'><span><img src="fb.png" width="20" height="20" align="texttop"> Facebook</span></a></li>
-   <li><a href='http://twitter.com/project_patch'><span><img src="twitter.png" width="20" height="20" align="texttop"> Twitter</span></a></li>
-   <li><a href='http://reddit.com/r/projectpatch'><span><img src="reddit.png" width="20" height="20" align="texttop"> Reddit</span></a></li>
-   <li class='last'><a href='https://discord.gg/0ipCcnv9JsJvHSmo'><span><img src="discord.png" width="20" height="20" align="texttop"> Discord</span></a></li>
+   <li><a href='#'><span>How Can I Help?</span></a></li>
+   <li><a href='#'><span>About Us</span></a></li>
+   <li><a href='#'><span>Contact</span></a></li>
+   <li><a href='#'><span>Facebook</span></a></li>
+   <li><a href='#'><span>Twitter</span></a></li>
+   <li class='last'><a href='#'><span>Reddit</span></a></li>
+   
 </ul>
 </div>
     <!-- end .header --></div>
